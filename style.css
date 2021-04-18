@@ -1,0 +1,56 @@
+html{
+  background-image: url('https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700805707.jpg');
+background-size: 100%;
+}
+h1{
+
+  text-align: center;
+  color: black;
+
+
+}
+td{
+  color : white;
+  padding: 15px;
+}
+#myphoto{
+  width: 10%;
+  height: 10%;
+}
+table{
+  font-weight: bold;
+  font-family: Comic Sans MS;
+text-align: right;
+}
+#h1{
+  border: 3px dashed silver;
+  background-color: #f7f7f7
+
+}
+#biography{
+  color: white;
+}
+h2{
+  text-align: center;
+  color:white;
+}
+#biography{
+  font-size: 20px;
+}
+h3{
+  color:white;
+font-size: 30px;
+}
+
+#achievments{
+  color:white;
+}
+#hh2{
+  width: 29.3%;
+}
+#hh3{
+  width:31.5%;
+}
+#achievments{
+  font-size: 130%;
+}
